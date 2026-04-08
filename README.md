@@ -16,7 +16,7 @@ We will meet as a Cohort via Zoom five times over two months for 1.5
 hours each:
 
 - **Dates:** April 15, 29, May 13, 27, June 10
-- **Times:** 14:00 - 15:30 GMT
+- **Times:** 14:00 - 15:30 BST
 - **Location:** remotely, via Zoom
 
 Agendas will be accessible to Cohort participants in our [Cohort Google
@@ -60,7 +60,7 @@ add any edits directly (we’ll learn how in our GitHub Clinic!)
 
 Julie Lowndes (@jules32), Openscapes  
 Stefanie Butland (@stefaniebutland), Openscapes  
-Andy Teucher (@teucher), Openscapes  
+Ronny Hernandez Mora (@ronnyhdez), Openscapes  
 Dean Summers (@sunnydean), Lampata  
 Krasen Samardzhiev (@u3ks), Lampata
 
