@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 <a align="left" href="https://github.com/openscapes/2026-esa-earthcode"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
 # 2026 ESA Openscapes Champions
