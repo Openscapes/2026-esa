@@ -24,6 +24,12 @@ We can make words **bold** or *italic*.
 
 We can make lists – *note that lists need an empty line before list items!*
 
+### Making a new list 
+
+* one
+* two
+* three
+
 1. bananas
 2. tamales
 3. cakes
@@ -45,3 +51,7 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 ## NOTES
 
 It's a lot to get familiar with markdown if you haven't used it previously! 
+
+## Adding an image
+
+![](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2023/04/earth_30_year_comparison/24832556-1-eng-GB/Earth_30_year_comparison_pillars.jpg)
