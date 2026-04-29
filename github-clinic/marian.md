@@ -70,7 +70,7 @@ Check out [my project](https://github.com/mihnearafael/seantinel)
 
 ### An image example
 
-![Dog with money](https://images.unsplash.com/photo-1601758123927-196f74b3b1a3)
+![Dog with money](https://cdn.pixabay.com/photo/2017/09/25/13/12/dog-2785074_1280.jpg)
 
 ## NOTES
 
