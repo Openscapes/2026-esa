@@ -54,4 +54,4 @@ Today i learned:
 
 > how to add urls [CCI data portal](https://climate.esa.int/en/data/)
 
-> how to add pictures ![](https://www.researchgate.net/figure/SMOS-sea-surface-salinity-over-the-Arctic-ocean-65-65circN-in-September_fig1_389987195)
+> how to add pictures ![]([https://www.researchgate.net/figure/SMOS-sea-surface-salinity-over-the-Arctic-ocean-65-65circN-in-September_fig1_389987195](https://unsplash.com/s/photos/cute-cat)
