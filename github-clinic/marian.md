@@ -42,6 +42,36 @@ We can include an image with the same `[]()` pattern, by adding a preceding excl
 
 Your turn! Change or add something in Markdown and make another commit: write a human-readable commit message, and press the green button to commit changes. 
 
+## My Practice Edit
+
+This is my new section added as part of a commit.
+
+### Formatting examples
+
+- **Bold text**
+- *Italic text*
+- ***Bold and italic***
+
+### A new list
+
+Remember to leave a blank line before lists!
+
+- apples  
+- oranges  
+- coffee ☕
+
+### A quote
+
+> Markdown is simple, but powerful.
+
+### A useful link
+
+Check out [my project](https://github.com/mihnearafael/seantinel)
+
+### An image example
+
+![Dog with money](https://images.unsplash.com/photo-1601758123927-196f74b3b1a3)
+
 ## NOTES
 
-It's a lot to get familiar with markdown if you haven't used it previously! 
+It's a lot to get familiar with markdown if you haven't used it previously!
