@@ -49,8 +49,8 @@ Your turn! Change or add something in Markdown and make another commit: write a 
 3. a
 4. list
 
-** This is in bold **
-* This is in italic *
+**This is in bold**
+*This is in italic*
 
 > I guess I'm close to being a pro now
 
