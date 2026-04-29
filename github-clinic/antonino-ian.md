@@ -50,6 +50,8 @@ It's a lot to get familiar with markdown if you haven't used it previously!
 
 #### My Paragraph
 Today i learned:
-> how to write things in **bold** and *italic* 
+> how to write things in **bold** and *italic*
+
 > how to add urls [CCI data portal](https://climate.esa.int/en/data/)
+
 > how to add pictures ![](https://www.researchgate.net/figure/Example-of-Climate-Change-Initiative-CCI-L4-satellite-Sea-Surface-Salinity-SSS-fields_fig1_356454095)
