@@ -5,13 +5,13 @@ In spring 2026, ESA partnered with Openscapes to lead a 10–week Champions Coho
 The ESA Champions Cohort taught the following lessons with CC-By license, available for self-paced learning resources, and to reuse and remix. They are a combination of Openscapes core lessons and new lessons developed by Lampata: FAIR strategies and EarthCODE. 
 
 
-| Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
-|------------------------|------------------------|------------------------|
-| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Seaside Chat (trailhead) |
-| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat (shared organizing with GitHub) |
-| 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://docs.google.com/presentation/d/1CgpNio4tdP04cVWxCnGvqbT24ih9slXStP8T8RjPIAc/) | Seaside Chat (team culture) |
-| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), FAIR strategies and EarthCODE ([slides](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/); [recording](https://youtu.be/ftcmAVyJLAs)) | Seaside Chat (pathway) |
-| 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
+| Cohort Call Topics | Slides |
+|------------------------|------------------------|
+| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | 
+| 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | 
+| 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://docs.google.com/presentation/d/1CgpNio4tdP04cVWxCnGvqbT24ih9slXStP8T8RjPIAc/) | 
+| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), FAIR strategies and EarthCODE ([slides](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/); [recording](https://youtu.be/ftcmAVyJLAs)) | 
+| 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  
 
 ## More about Openscapes and the Champions program:
 
