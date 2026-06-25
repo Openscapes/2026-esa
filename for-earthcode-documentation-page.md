@@ -7,10 +7,10 @@ The ESA Champions Cohort taught the following lessons with CC-By license, availa
 
 | Cohort Call Topics | Slides |
 |------------------------|------------------------|
-| 1\. Openscapes mindset | [mindset](https://docs.google.com/presentation/d/1fXgrWU5AMrZwgvpjs2J0dRT9x1Tc-IZyQIn8yPZSGM8/), [better science for future us](https://docs.google.com/presentation/d/13rZnx2ybgKIYlN36ugCPH0e2RfaiQefxwmhv5F_mfqc/); [recording](https://youtu.be/FfpA_Ja8xPw) | 
+| 1\. Openscapes mindset | [mindset](https://docs.google.com/presentation/d/1fXgrWU5AMrZwgvpjs2J0dRT9x1Tc-IZyQIn8yPZSGM8/), [better science for future us](https://docs.google.com/presentation/d/13rZnx2ybgKIYlN36ugCPH0e2RfaiQefxwmhv5F_mfqc/) ([recording](https://youtu.be/FfpA_Ja8xPw)) | 
 | 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | 
 | 3\. Team culture and data strategies for future us | [team culture](https://docs.google.com/presentation/d/1TwCyf9xicLWBfPhW9HnYQH3-mHycEyVKTm38zSg4D3Q/), [data strategies](https://docs.google.com/presentation/d/1CgpNio4tdP04cVWxCnGvqbT24ih9slXStP8T8RjPIAc/) | 
-| 4\. Open communities and coding strategies for future us | [open communities](https://docs.google.com/presentation/d/1u6AjCCKniDsuX10M-qAU2O1HLJqupDYhWWKZYfeCpK4/), FAIR strategies and EarthCODE ([slides](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/); [recording](https://youtu.be/ftcmAVyJLAs)) | 
+| 4\. Open communities and coding strategies for future us | [open communities](https://docs.google.com/presentation/d/1u6AjCCKniDsuX10M-qAU2O1HLJqupDYhWWKZYfeCpK4/), [FAIR strategies and EarthCODE](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/) ([recording](https://youtu.be/ftcmAVyJLAs)) | 
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  
 
 ## More about Openscapes and the Champions program:
