@@ -1,6 +1,6 @@
 # ESA Openscapes Champions Lessons
 
-In spring 2026, ESA partnered with Openscapes to lead a 10–week Champions Cohort to explore open data science practices to help participants experiment and plan FAIR principles for Earth Observation and EarthCODE. This is a short overview of the lessons; please see [ TODO LINK TO EARTHCODE BLOG POST ] to learn about what participants did and accomplished.
+In spring 2026, ESA partnered with Openscapes to lead a 10–week Champions Cohort to explore open data science practices to help participants experiment and plan FAIR principles for Earth Observation and EarthCODE. This is a short overview of the lessons; please see [EarthCODE blog post](https://earthcode.esa.int/blog/esa-champions-cohort) to learn about what participants did and accomplished.
 
 The ESA Champions Cohort taught the following lessons with CC-By license, available for self-paced learning resources, and to reuse and remix. They are a combination of Openscapes core lessons and new lessons developed by Lampata: FAIR strategies and EarthCODE. 
 
