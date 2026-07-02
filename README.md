@@ -4,6 +4,8 @@
 
 Welcome to the 2026 ESA Openscapes Cohort! This is a Cohort for European Space Agency (ESA) affiliated researchers and people supporting ESA research to explore open data science practices and strengthen collaboration and reproducibility. To learn more about what to expect (the purpose, outcomes, and process of our Cohort) and to browse the open lesson materials, please see the [Champions Program Lesson Series](https://openscapes.github.io/series).
 
+This Cohort has completed and their work is featured in a [blog post](https://openscapes.org/blog/2026-06-30-esa-champions-2026/), “On-ramp to FAIR data in the EarthCODE Federation”, and at [ESA EarthCODE](https://earthcode.esa.int/blog/esa-champions-cohort).
+
 <img src="horst-champions-trailhead.png" align="right" width="450"/>
 
 ## Cohort Agendas
@@ -39,7 +41,7 @@ Coworking sessions are where get our own work done at the same time together. So
 
 ## Participating teams and individuals
 
-Some brief information about participating teams and individuals. Please add any edits directly (we’ll learn how in our GitHub Clinic!)
+Participants were mainly from key EarthCODE stakeholder groups: researchers in the Earth System Science Hub, ESA ɸ-Lab, and ESA Science Clusters, and many of them were in person together at [ESRIN](https://www.esa.int/About_Us/ESRIN/) (ESA’s Centre for Earth Observation in Frascati, Italy). Other participants were from Europe, India, and Africa; they are scientists using ESA EO data in their research and who heard about the Champions Cohort via open science networks during the nomination period. These researchers study forests, clouds, sea ice, drought, cryosphere, wildfire, sea level rise, socio-ecological systems, extreme and compound event analysis. They use many different technologies for their science, including Python, GitHub, STAC APIs, Zenodo, data cubes, Overleaf, Jupyter Notebooks, HPCs, and were keen to learn more about how to collaborate, document, and improve their workflows.
 
 ## Our Team
 
