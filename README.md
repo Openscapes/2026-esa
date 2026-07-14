@@ -20,10 +20,10 @@ Agendas will be accessible to Cohort participants in our [Cohort Google Drive Fo
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |------------------------|------------------------|------------------------|
-| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Seaside Chat (trailhead) |
+| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) by Dr. Andy Barrett, NASA NSIDC | Seaside Chat (trailhead) |
 | 2\. GitHub for publishing & project management | [publishing](https://openscapes.github.io/series/github-pub), [project management](https://openscapes.github.io/series/github-issues) | Seaside Chat (shared organizing with GitHub) |
 | 3\. Team culture and data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://docs.google.com/presentation/d/1CgpNio4tdP04cVWxCnGvqbT24ih9slXStP8T8RjPIAc/) | Seaside Chat (team culture) |
-| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), FAIR strategies and EarthCODE ([slides](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/); [recording](https://youtu.be/ftcmAVyJLAs)) | Seaside Chat (pathway) |
+| 4\. Open communities and coding strategies for future us | [open communities](https://openscapes.github.io/series/core-lessons/communities), FAIR strategies and EarthCODE ([slides](https://docs.google.com/presentation/d/1GYNPRVn9g1cP0YwdbAc_aoPsra1H8bpKlTprSOekorQ/); [recording](https://youtu.be/ftcmAVyJLAs)) by Dr. Krasen Samardzhiev, Lampata| Seaside Chat (pathway) |
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
 
 <!---TODO: link to issues labeled 'digest'. 
